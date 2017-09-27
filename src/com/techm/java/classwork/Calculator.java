@@ -9,7 +9,7 @@ public class Calculator {
 		int b = 34;
 		
 		
-		System.out.println(add(a,b));
+		System.out.println( add(a,b));
 		System.out.println(add(a,b,10));
 		
 		//checkResult(int m1, int m2, int m3)
@@ -33,10 +33,11 @@ public class Calculator {
 	}
 	
 	
+	}
+	
+	
+	
 	// Compile time polymorphism
 	
 	
 	
-	
-
-}
