@@ -13,7 +13,7 @@ public class primeNumbers {
 	
 		if (i==2) {
 			System.out.println(i);}
-		else if(x==0&&y==1) {
+		else if(x==0 && y==1) {
 						 System.out.println(i);
 			
 		
