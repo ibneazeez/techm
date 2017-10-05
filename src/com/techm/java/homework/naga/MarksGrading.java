@@ -11,7 +11,7 @@ public class MarksGrading {
 
 	public static void main(String[] args) {
 
-		int eng = 49, math = 95, java = 99, python = 41;
+		int eng = 10, math = 95, java = 90, python = 41;
 		int total = eng + math + java + python;
 		float per = total / 4;
 
