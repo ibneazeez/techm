@@ -1,5 +1,10 @@
 # Assignments Details
 
+5-Oct-2017
+
+Please read theory about Exceptions (A...Z)
+Compile Time, Runtime, Business/User Defined Exceptions
+
 
 
 4-Oct-2017
