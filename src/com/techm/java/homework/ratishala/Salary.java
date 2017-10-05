@@ -1,3 +1,4 @@
+package com.techm.java.homework.ratishala;
 public class Salary {
 public static void main(String[] args) {
       calSalary(7300.7);

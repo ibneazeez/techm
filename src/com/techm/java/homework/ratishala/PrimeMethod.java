@@ -1,3 +1,4 @@
+package com.techm.java.homework.ratishala;
 public class PrimeMethod {
 	public static void main(String[] args) {
 		prime();
