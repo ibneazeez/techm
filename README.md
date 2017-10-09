@@ -1,5 +1,13 @@
 # Assignments Details
 
+9-Oct-2017
+
+Runtime Polymorphism Example
+Compile Time Polymorphism Example
+
+Questions will be asked tomorrow on the above two topics apart from String
+
+
 5-Oct-2017
 
 Please read theory about Exceptions (A...Z)

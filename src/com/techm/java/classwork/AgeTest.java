@@ -18,6 +18,8 @@ public class AgeTest {
 			int i = 10/0;
 			enterAge(age);
 			
+			System.out.println("I am after exception");
+			
 		} catch (AgeOutOfBoundException e) {
 
 
@@ -26,6 +28,9 @@ public class AgeTest {
 
 
 			System.out.println("Please enter valid age from (0..150)");
+		} finally{
+			System.out.println("Closing of connectctions");
+			
 		}
 		
 		
