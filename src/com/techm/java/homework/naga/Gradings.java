@@ -11,11 +11,11 @@ public class Gradings {
 
 	public static void main(String[] args) {
 
-		int eng = 49, math = 95, java = 99, python = 41;
+		int eng = 49, math = 65, java = 99, python = 41;
 		int total = eng + math + java + python;
 		float per = total / 4;
 
-		if (eng >= 40 && math >= 40 && java >= 40 && python >= 40) {
+		if (eng >= 40 && math >= 50 && java >= 40 && python >= 40) {
 			System.out.println("Passed In All Subjects");
 		} else if (eng < 40) {
 			System.out.println("Failed in Eng");
