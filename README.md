@@ -1,5 +1,18 @@
 # Assignments Details
 
+
+10-Oct-2017
+
+Naming Conventions
+
+1. All variables/Method Names should start with camelcase - starting letter should be small letter
+2. All package names should smallcase
+3. All the Constants CAPS PI_VALUE= 1.734455;
+4. Class/Interface Names start with Capital letter and CamelCase
+
+
+
+
 9-Oct-2017
 
 Runtime Polymorphism Example
