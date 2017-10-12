@@ -1,6 +1,13 @@
 # Assignments Details
 
 
+12-10-2017
+
+Create static Constant class with Some mathematical Constangts
+Static block R&D 
+Interface & Abstract Class differnces
+
+
 10-Oct-2017
 
 Naming Conventions
