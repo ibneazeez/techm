@@ -2,8 +2,9 @@ package com.techm.java.homework.keerthi;
 
 public class Mobile {
 	
-	String type;
-	String company;
+	public String type;
+	protected String company;
+	private String model;
 	
 	
 	public void answering(){
