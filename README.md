@@ -1,5 +1,10 @@
 # Assignments Details
 
+17-10-2017
+
+1. Wrapper classes theory
+2. Constructors examples
+
 
 16-10-2017
 
