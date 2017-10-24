@@ -1,5 +1,19 @@
 # Assignments Details
 
+
+24-10-2017
+
+Normalization
+primary Key,
+foreign key
+Joins (self, Inner, Outer Join)
+one to many and many to one relationship
+
+why we are using Class.forname instead of directly importing the class from driver..?
+
+
+
+
 17-10-2017
 
 1. Wrapper classes theory
