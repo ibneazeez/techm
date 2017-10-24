@@ -20,7 +20,7 @@ public class JDBCConnectivity {
 			Connection connect = DriverManager.getConnection("jdbc:mysql://localhost:3306/imt?"
                             + "user=root&password=root");
 			Statement st = connect.createStatement();
-			String userName = "abc' OR (1=1) OR '1  ";
+			String userName = "abc' OR (1=1) OR '1  "; // SQL injection
 			String password = "anees";
 			ResultSet resultSet = st.executeQuery("select * from user_inc where user_name='" + userName +"' AND  password= '" + password +"'");
 			String user_id = null;

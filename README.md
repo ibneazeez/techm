@@ -14,6 +14,7 @@ one to many and many to one relationship
 why we are using Class.forname instead of directly importing the class from driver..?
 Statement, PrepareStament and PrepareCall
 
+types of Drivers - Nag
 
 
 17-10-2017
