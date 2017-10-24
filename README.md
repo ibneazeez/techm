@@ -7,10 +7,12 @@ Normalization
 primary Key,
 foreign key
 Joins (self, Inner, Outer Join)
+Store Procedures and Functions in DBMS
+
 one to many and many to one relationship
 
 why we are using Class.forname instead of directly importing the class from driver..?
-
+Statement, PrepareStament and PrepareCall
 
 
 
