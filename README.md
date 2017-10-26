@@ -1,5 +1,14 @@
 # Assignments Details
 
+26-10-2017
+
+Collections Queue - Keerthi
+Normalization and All concepts mentioned in 24th - Nag
+Legacy Classes and Collections differnces - Anudeep..
+Sorting collections Objects - Rathi - Monday
+ 
+
+
 
 24-10-2017
 
