@@ -1,9 +1,12 @@
 package com.techm.java.classwork.oct26.collections;
 
+import java.awt.print.Book;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
-import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 public class TestCollections {
 	
@@ -87,6 +90,39 @@ public class TestCollections {
 		// SET,  List
 		
 		
+		Map boxMap = new HashMap();
+		
+		boxMap.put("01", box1);
+		boxMap.put(2, box2);
+		boxMap.put(box3 , "12");
+		boxMap.put(box4, box4);
+		
+		
+		boxMap.put("02", box1);
+		((Box)boxMap.get("01")).setWidth(109);
+		
+		Box bx = (Box)boxMap.get("02");
+		System.out.println(bx);
+		
+		/*Box btypeCasted = (Box)boxMap.get(2);
+		
+		System.out.println(btypeCasted);
+		*/
+		
+		
+		
+		// how to get all values from map with keys
+		
+		Set keyset = boxMap.keySet();
+		
+		for (Iterator iterator = keyset.iterator(); iterator.hasNext();) {
+			Object next = iterator.next();
+			System.out.println("Key ..."+next);
+			System.out.println("Value .. " + boxMap.get(next));
+			
+		}
+		
+		//boxMap.values();
 		
 		
 		

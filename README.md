@@ -1,5 +1,12 @@
 # Assignments Details
 
+31-10-2017
+
+Discussed Generics & Maps
+ Please proceed with Homework on 26th 
+
+
+
 26-10-2017
 
 Collections Queue - Keerthi
