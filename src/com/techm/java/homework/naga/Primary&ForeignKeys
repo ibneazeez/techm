@@ -1,0 +1,15 @@
+Primary Key :
+
+A primary is a column or set of columns in a table that uniquely identifies tuples (rows)
+ in that table.
+ 
+ --------------------------------------
+ Foreign key :
+  
+ Foreign keys are the columns of a table that points to the primary key of another table.
+  They act as a cross-reference between tables.
+  
+  Example : A column in one table which is a primary key for another table is nothing 
+  but Foreign Key.
+  
+-------------------------------------------

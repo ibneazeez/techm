@@ -1,0 +1,54 @@
+Disadvantages data bases:
+
+1 . Insertion anomaly : If we want insert the same data in 2 rows , we may face issues.
+2 . Update anomaly    : If we want to update database , you may face issues.
+3 . Deletion anomaly  : If one wants to update the data base ,he/she may face issues.
+
+There is a chance of having some Issues while working on the above 3 tasks which should be happened 
+in database management. So To Avoid this we have Normalization Techniques.
+
+************************************************************************************************
+Normalization:	
+ 
+Normalization is a process of organizing the data in database to avoid data redundancy or 
+duplication , insertion anomaly , update anomaly & deletion anomaly processes.
+
+******************************************************
+
+Here are the most commonly used normal forms are 4 :
+
+1 . First normal form(1NF) : 
+
+In 1NF each attribute of a table must hold a atomic value only (only 1 value).
+
+----------------------------------------------------------
+ 
+2 . Second normal form(2NF) :
+
+A Table should follow the below rules to be in 2NF.
+
+a . Table is in 1NF (First normal form).
+b . No non-prime attribute is dependent on the proper subset of any candidate key of table.
+
+---------------------------------------------------------
+
+3 . Third normal form(3NF) :
+
+A Table should follow the below rules to be in 3NF.
+
+a . Table must be in 2NF.
+b . Transitive functional dependency of non-prime attribute on any super key should be removed.
+
+-----------------------------------------------------------
+
+4 . Boyce & Codd normal form (BCNF) :
+
+It is an advance version of 3NF that’s why it is also referred as 3.5NF. BCNF is stricter than 3NF.
+ A table complies with BCNF if it is in 3NF and for every functional dependency X->Y, X should
+ be the super key of the table.
+ 
+ 
+ 
+ ***************************************************************************************************************************************************
+
+			 
