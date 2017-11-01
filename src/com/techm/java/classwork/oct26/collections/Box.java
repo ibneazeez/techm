@@ -1,6 +1,6 @@
 package com.techm.java.classwork.oct26.collections;
 
-public class Box {
+public class Box  implements Comparable<Box>{
 
 	private int width;
 	private int lenght;
@@ -40,6 +40,15 @@ public class Box {
 		this.width = width;
 		this.lenght = lenght;
 		this.height = height;
+	}
+
+	@Override
+	public int compareTo(Box o) {
+		// TODO Auto-generated method stub
+		if(o.height  <this.height){
+			return -1;
+		} 
+		return 1;
 	}
 	
 	
