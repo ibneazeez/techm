@@ -2,7 +2,7 @@ package com.techm.java.homework.ratishala;
 
 import java.util.*;  
 import java.io.*;  
-public class TestSort{  
+public class TestComparable{  
 public static void main(String args[]){  
 ArrayList<Student> al=new ArrayList<Student>();  
 al.add(new Student(0,"Vijay",23));  

@@ -3,7 +3,7 @@ package com.techm.java.homework.ratishala;
 import java.util.*;  
 import java.io.*;  
   
-class Simple{  
+class ComparatorExample{  
 public static void main(String args[]){  
   
 ArrayList al=new ArrayList();  
@@ -24,8 +24,8 @@ System.out.println("sorting by age...");
   
 Collections.sort(al,new AgeComparator());  
 Iterator itr2=al.iterator();  
-while(itr.hasNext()){  
-Student st=(Student)itr.next();  
+while(itr2.hasNext()){  
+Student st=(Student)itr2.next();  
 System.out.println(st.rollno+" "+st.name+" "+st.age);  
 }  
   
