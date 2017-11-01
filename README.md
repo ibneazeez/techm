@@ -1,5 +1,38 @@
 # Assignments Details
 
+31-10-2017
+
+Discussed Generics & Maps
+ Please proceed with Homework on 26th 
+
+
+
+26-10-2017
+
+Collections Queue - Keerthi
+Normalization and All concepts mentioned in 24th - Nag
+Legacy Classes and Collections differnces - Anudeep..
+Sorting collections Objects - Rathi - Monday
+ 
+
+
+
+24-10-2017
+
+Normalization
+primary Key,
+foreign key
+Joins (self, Inner, Outer Join)
+Store Procedures and Functions in DBMS
+
+one to many and many to one relationship
+
+why we are using Class.forname instead of directly importing the class from driver..?
+Statement, PrepareStament and PrepareCall
+
+types of Drivers - Nag
+
+
 17-10-2017
 
 1. Wrapper classes theory

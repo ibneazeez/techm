@@ -15,6 +15,8 @@ public class VehicleTest {
 		
 		if(isCycle){
 			v= new Cycle();
+			Cycle c1 =(Cycle)v;
+			
 		} else {
 			v = new Car();
 		}
